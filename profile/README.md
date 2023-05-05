@@ -12,7 +12,7 @@ We are developing an open-source charity platform with maximum transparency, tha
   - and then join in
 
 🌈 Contribution guidelines:
- - We have two main repositories of the platform: the frontend https://github.com/podkrepi-bg/api and the backend https://github.com/podkrepi-bg/api
+ - We have two main repositories of the platform: the frontend https://github.com/podkrepi-bg/frontend and the backend https://github.com/podkrepi-bg/api
  - Start by setting up your frontend and backend locally reading the instructions in the frontend/README.MD
  - Check the issues and select one you'd like to work on - write in it so that it can be assigned to you 
  - We work with forks, submit PRs, review, aprove and only maintainers can merge and deploy
@@ -20,5 +20,5 @@ We are developing an open-source charity platform with maximum transparency, tha
  
 👩‍💻 Communication:
  - Our Discord community server here: https://discord.com/invite/nZAeCb9YzP 
- - When you join follow the instructions to present yourself and contact a community lead in the arrea of your contribution
+ - When you join follow the instructions to present yourself and contact a community lead in the area of your contribution
  - We hold a common meeting every Wednesday 19h EET
