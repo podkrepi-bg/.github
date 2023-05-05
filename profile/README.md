@@ -8,7 +8,7 @@ We are developing an open-source charity platform with maximum transparency, tha
 
 👋 Before You Start
   - Read our Manifesto in EN here: https://docs.podkrepi.bg/general/master/manifest 
-  - Read our Manifesto in BG here: https://docs.podkrepi.bg/general/master/manifest
+  - Read our Manifesto in BG here: https://docs.podkrepi.bg/general/master/manifesto
   - and then join in
 
 🌈 Contribution guidelines:
