@@ -15,7 +15,7 @@ We are developing an open-source charity platform with maximum transparency, tha
  - We have two main repositories of the platform: the frontend https://github.com/podkrepi-bg/frontend and the backend https://github.com/podkrepi-bg/api
  - Start by setting up your frontend and backend locally reading the instructions in the frontend/README.MD
  - Check the issues and select one you'd like to work on - write in it so that it can be assigned to you 
- - We work with forks, submit PRs, review, aprove and only maintainers can merge and deploy
+ - We work with forks, submit PRs, review, aprove and only maintainers can merge and deploy - more about forks: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks
  - The automated tests will help you add improvements safely, please extend them too
  
 👩‍💻 Communication:
